@@ -7,3 +7,6 @@ gradle
 gradlew
 local
 settings.gradle.kts
+gradle.properties
+gradlew.bat
+local.properties
